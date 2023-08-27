@@ -1,0 +1,16 @@
+label,input,button{
+    margin: 10px;
+    padding: 5px;
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+    height: 40px;
+}
+
+.table{
+    margin: 2px;
+}
+/* m-2 md:m-10 p-2 md:p-10 bg-white rounded-3xl */
